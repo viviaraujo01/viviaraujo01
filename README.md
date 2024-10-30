@@ -1,4 +1,4 @@
-## Hi there 👋
+## oie seja bem vindo a minha conta
 
 <!--
 **viviaraujo01/viviaraujo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
